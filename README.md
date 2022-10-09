@@ -9,9 +9,11 @@ Things you may want to cover:
   Set-up your TokBox key and secret 
   ```EDITOR=vi rails credentials:edit```
   
-  ```tokbox:
+  ```
+  tokbox:
         opentok_key: api_key
-        opentok_secret: secret_key```
+        opentok_secret: secret_key
+  ```
  
 * Database creation
   Run
